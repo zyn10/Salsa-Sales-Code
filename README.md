@@ -1,4 +1,4 @@
-# salsa_sales
+# Salsa Sales
 Salsa sales basic programme using cpp
 
 <h1>Question</h1>
